@@ -1,3 +1,7 @@
+## this fork
+
+This is a fork of [this original repo](https://github.com/rainycape/cld2)  Basically just added a few test cases before integrating with it.
+
 # cld2
 --
     import "cld2"
